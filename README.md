@@ -16,5 +16,5 @@ I'm Felix, a Software Engineer with a passion for tackling technical and algorit
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-📫 How to reach me: [felixacarela@protonmail.com](mailto:felixacarela@protonmail.com)
+📫 How to reach me: [felixacarela@protonmail.com](mailto:felixacarela@protonmail.com) or on [LinkedIn](https://www.linkedin.com/in/felix-carela/)
 ---
