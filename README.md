@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Felix, a Full-Stack Software Engineer with a passion for tackling technical and algorithmic challenges. My journey in the Marine Corps has shaped my resilience, adaptability, and team spirit, which I now channel into coding. I thrive in collaborative environments, consistently delivering results, and adeptly troubleshooting issues with a disciplined and innovative mindset. Let's connect and create something amazing together!
+I'm Felix, a Software Engineer with a passion for tackling technical and algorithmic challenges. My journey in the Marine Corps has shaped my resilience, adaptability, and team spirit, which I now channel into coding. I thrive in collaborative environments, consistently delivering results, and adeptly troubleshooting issues with a disciplined and innovative mindset. Let's connect and create something amazing together!
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
