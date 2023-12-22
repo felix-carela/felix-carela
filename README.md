@@ -15,6 +15,9 @@ I'm Felix, a Software Engineer with a passion for tackling technical and algorit
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 📫 How to reach me: [felixacarela@protonmail.com](mailto:felixacarela@protonmail.com) or on [LinkedIn](https://www.linkedin.com/in/felix-carela/)
 ---
