@@ -20,4 +20,5 @@ I'm Felix, a Software Engineer with a passion for tackling technical and algorit
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 📫 How to reach me: [felixacarela@protonmail.com](mailto:felixacarela@protonmail.com) or on [LinkedIn](https://www.linkedin.com/in/felix-carela/)
----
+
+🌐 Check out my portfolio: [http://felixcarela.com](http://felixcarela.com)
